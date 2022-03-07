@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AlvaroKumaira
-- 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python
 
 <!---
